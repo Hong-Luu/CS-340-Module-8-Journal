@@ -1,1 +1,1 @@
-# CS-340-Module-8-Journal
+# CS 340 Module Eight Journal
