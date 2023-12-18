@@ -13,8 +13,10 @@ As a computer scientist, I carefully planned and worked on Grazioso Salvare's pr
 **What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
 
 
-Computer scientists like me help solve problems with technology. My work helps companies like Grazioso Salvare manage their information better and make smarter decisions, which is very important for their success.
 
+Computer scientists solve problems using technology. They write code, create software, and find new ways to handle information and processes. This matters because their work makes things easier and more efficient in various industries.
+
+In projects like the one for Grazioso Salvare, my work helps the company work better by organizing their data and making it easy to use. This means they can find information faster, make better decisions, and manage their work more efficiently. My work helps them focus on their main job without worrying about data problems.
 
 
 
