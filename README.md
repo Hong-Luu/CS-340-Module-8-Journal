@@ -5,6 +5,7 @@ In my first project, I created a CRUD Python module focusing on clear, simple co
 
 
 **How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?**
+
 As a computer scientist, I carefully planned and worked on Grazioso Salvare's project, focusing on what they needed. This was different from other school work because it was more about real situations and working with a client. In the future, I'll plan well and test a lot to make databases that fit what clients want.
 
 
