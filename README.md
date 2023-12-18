@@ -6,12 +6,10 @@ In my first project, I created a CRUD Python module focusing on clear, simple co
 
 **How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?**
 
-
-As a computer scientist, I carefully planned and worked on Grazioso Salvare's project, focusing on what they needed. This was different from other school work because it was more about real situations and working with a client. In the future, I'll plan well and test a lot to make databases that fit what clients want.
+As a computer scientist, when approaching problems like the database and dashboard requirements for Grazioso Salvare, I focus on understanding the client's needs and translating them into technical solutions. This project was different from previous assignments as it involved real-world application and required practical, client-oriented thinking. In the future, I'll use techniques like thorough planning, understanding the client's business, and iterative development. I'll also incorporate testing and feedback to tailor databases to specific client needs, ensuring they are efficient and user-friendly.
 
 
 **What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
-
 
 Computer scientists solve problems using technology. They write code, create software, and find new ways to handle information and processes. This matters because their work makes things easier and more efficient in various industries.
 
